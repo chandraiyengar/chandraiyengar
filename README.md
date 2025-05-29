@@ -1,5 +1,5 @@
 I'm Chandra, a software engineer based in London.
 
-📧 [Email me](mailto:chandrasekhariyengar@gmail.com): chandrasekhariyengar at gmail dot com
+📧 [Email me](mailto:chandrasekhariyengar@gmail.com)
 
 🔗 [LinkedIn](https://www.linkedin.com/in/chandra-iyengar/)
