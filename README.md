@@ -1,4 +1,4 @@
-I'm Chandra, a software engineer based in London.
+I'm Chandra, a software engineer based in Helsinki.
 
 📧 [Email me](mailto:chandrasekhariyengar@gmail.com)
 
